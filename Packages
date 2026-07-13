@@ -1,0 +1,15 @@
+Package: com.mansur.adsboks
+Version: 0.0.1-2+debug
+Architecture: iphoneos-arm64
+Maintainer: MAHCYPrepo
+Installed-Size: 436
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
+Filename: ./debs/com.mansur.adsboks_0.0.1-2+debug_iphoneos-arm64.deb
+Size: 7934
+MD5sum: f762bf2bf74b4cf93f71cf92cb1dc194
+SHA1: da308d3a985b06d4acf8190d0e90cc3bc83ab4e1
+SHA256: 0e74d647832eff7d86c35a2847611d86973d89628eb9aeef387c8775ad6a4a42
+Description: Управление загрузкой MyAdBlock.dylib для выбранных приложений.
+Author: MAHCYP
+Name: AdsBoks
+
