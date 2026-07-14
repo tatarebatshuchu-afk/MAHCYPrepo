@@ -1,31 +1,31 @@
 Package: com.mansur.adsboks
-Version: 0.0.1-2+debug
+Version: 0.0.8+debug
 Architecture: iphoneos-arm64
-Maintainer: MAHCYPrepo
-Installed-Size: 436
-Depends: mobilesubstrate, preferenceloader, ws.hbang.common, applist
-Filename: debs/com.mansur.adsboks_0.0.1-2+debug_iphoneos-arm64.deb
-Size: 7934
-MD5sum: f762bf2bf74b4cf93f71cf92cb1dc194
-SHA1: da308d3a985b06d4acf8190d0e90cc3bc83ab4e1
-SHA256: 0e74d647832eff7d86c35a2847611d86973d89628eb9aeef387c8775ad6a4a42
-Description: Управление загрузкой MyAdBlock.dylib для выбранных приложений.
-Author: MAHCYP
+Maintainer: MAHCYPTheDelevoper
+Installed-Size: 392
+Depends: mobilesubstrate, preferenceloader
+Filename: debs/com.mansur.adsboks_0.0.1-8+debug_iphoneos-arm64.deb
+Size: 12526
+MD5sum: 199f579a159a6445ab8a7a40e6e75f0e
+SHA1: 38e75a93a04f4f32273691ae8b6407ef3e8ae0d5
+SHA256: 567e6978cbe8e70450fca208292378adaf8aafd447271c9070c96981094a4dad
+Description: Встроенный блокировщик рекламы AdsBoks с кастомным списком приложений.
+Author: MAHCYPTheDelevoper
 Name: AdsBoks
 
-Package: com.mansur.lightapplist
+Package: com.mansur.customcheatdeb
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: mansur
-Installed-Size: 348
-Depends: mobilesubstrate (>= 0.9.5000), preferenceloader (>= 2.2.3)
-Filename: debs/com.mansur.lightapplist_0.0.1_iphoneos-arm64.deb
-Size: 7806
-MD5sum: 2f4b1b3f9d1537f8c6d34f1f0c0c7495
-SHA1: c8359baa4d15eab462bf008f10331ae4faad26c5
-SHA256: 107fbeb4086fbbf876ab9f0eb06f4ab4ed1ee601bb8b263388b0a195f5aefbeb
+Installed-Size: 204
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: debs/com.mansur.customcheatdeb_0.0.1_iphoneos-arm64.deb
+Size: 11434
+MD5sum: 761fb30a40e0f0e838de3e9f120a111a
+SHA1: 80f30d85ae3184511b2698bd4d97b033e7539b99
+SHA256: 695aa9d5ba5aafca3369dcb7e0c2bc313b4bb18f557b5fe17664099d8316e280
 Section: Tweaks
 Description: An awesome MobileSubstrate tweak!
 Author: mansur
-Name: LightAppList
+Name: CustomCheatDeb
 
